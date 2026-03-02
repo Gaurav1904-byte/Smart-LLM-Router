@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+llama-cpp-python
+scikit-learn
+pandas
+numpy
+sqlalchemy
+matplotlib
+
+
+
+
+
+
